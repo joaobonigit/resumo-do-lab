@@ -3,3 +3,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 
 Introdução a azure
+
+
+Máquinas virtuais
