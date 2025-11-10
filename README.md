@@ -5,4 +5,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Introdução a azure
 
 
-Máquinas virtuais
+- Máquinas virtuais
+- Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
